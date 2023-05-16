@@ -35,8 +35,8 @@
     z-index:1;
 }
 .message{
-    position: relative;
-    left: 530px;
+    
+    margin-left: 65%;
     
 }
 .contact__form-area{
