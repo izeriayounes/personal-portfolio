@@ -6,14 +6,14 @@ const Menu = [
     {
       id: 1,
       image: projet1,
-      title: "React Application",
-      category: "Conservateur de notes",
+      title: "React Application that grants creating notes and also deleting a specific one",
+      category: "Notes Keeper",
       url:'https://keeper-app-izeriayounes.vercel.app/',
     },
     {
       id: 2,
       image: projet2,
-      title: "A game that challenges the player's memory",
+      title: "A game that challenges the player's memory, built with JQuery",
       category: "Simon game",
       url:'https://simon-game-izeriayounes.vercel.app/',
     },

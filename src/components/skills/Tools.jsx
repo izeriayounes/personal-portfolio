@@ -10,12 +10,6 @@ const Tools = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__dataa">
-                <i class="uil"><img src={figma} alt="figma" /></i>
-                <div>
-                    <h3 className="skills__name">Figma</h3>
-                </div>
-                </div>
-                <div className="skills__dataa">
                 <i class="uil"><img src={Postman} alt="postman" /></i>
                 <div>
                     <h3 className="skills__name">Postman</h3>

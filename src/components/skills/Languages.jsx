@@ -13,18 +13,6 @@ const Proskills = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__dataa">
-                <i class="uil"><img src={html} alt="html" /></i>
-                <div>
-                    <h3 className="skills__name">HTML</h3>
-                </div>
-                </div>
-                <div className="skills__dataa">
-                <i class="uil"><img src={css} alt="css" /></i>
-                <div>
-                    <h3 className="skills__name">CSS</h3>
-                </div>
-                </div>
-                <div className="skills__dataa">
                 <i class="uil"><img src={javascript} alt="javascript" /></i>
                 <div>
                     <h3 className="skills__name">JavaScript</h3>
@@ -40,6 +28,18 @@ const Proskills = () => {
                 <i class="uil"><img src={java} alt="java" /></i>
                 <div>
                     <h3 className="skills__name">Java</h3>
+                </div>
+                </div>
+                <div className="skills__dataa">
+                <i class="uil"><img src={html} alt="html" /></i>
+                <div>
+                    <h3 className="skills__name">HTML</h3>
+                </div>
+                </div>
+                <div className="skills__dataa">
+                <i class="uil"><img src={css} alt="css" /></i>
+                <div>
+                    <h3 className="skills__name">CSS</h3>
                 </div>
                 </div>
             </div>
