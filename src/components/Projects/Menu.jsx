@@ -1,29 +1,23 @@
-import projet1 from '../../assets/projet1.PNG';
-import projet2 from '../../assets/projet2.jpg';
-import projet3 from '../../assets/projet3.jpg';
+import projet1 from "../../assets/projet1.PNG";
+import projet2 from "../../assets/projet2.jpg";
 
 const Menu = [
-    {
-      id: 1,
-      image: projet1,
-      title: "React Application that grants creating notes and also deleting a specific one",
-      category: "Notes Keeper",
-      url:'https://keeper-app-izeriayounes.vercel.app/',
-    },
-    {
-      id: 2,
-      image: projet2,
-      title: "A game that challenges the player's memory, built with JQuery",
-      category: "Simon game",
-      url:'https://simon-game-izeriayounes.vercel.app/',
-    },
-    {
-      id: 3,
-      image: projet3,
-      title: "Application that grants security with authentification using mongoDB sessions",
-      category: "Secrets",
-      url:'https://secrets.herokuapp.com/',
-    }
-]
+  {
+    id: 1,
+    image: projet1,
+    title:
+      "ATM iterface built using React and integrated with a Spring Web API.",
+    category: "ATM interface",
+    url: "https://github.com/izeriayounes/bank-interface",
+  },
+  {
+    id: 2,
+    image: projet2,
+    title:
+      "Creating a Robust Recipes Web API with Django, Unit Testing, Docker, and AWS Integration.",
+    category: "Simon game",
+    url: "https://github.com/izeriayounes/receipe-app-api",
+  },
+];
 
-export default Menu
+export default Menu;
