@@ -10,7 +10,7 @@ const About = () => {
       <div className="about__container grid">
         <img src={Me} alt="" className="about__img" />
         <div className="about__data grid">
-          <div className="about__info">
+          <div>
             <p className="about__description">
               I'm Younes IZERIA, Software engineering student at INPT (National
               Institute of Posts and Telecommunications). I have an enormous
@@ -19,7 +19,7 @@ const About = () => {
               launchmy career.{" "}
             </p>
             <a download="CV.pdf" href={CV} className="btn">
-              Download CV <i class="uil uil-file-download-alt"></i>
+              Download CV <i className="uil uil-file-download-alt"></i>
             </a>
           </div>
         </div>

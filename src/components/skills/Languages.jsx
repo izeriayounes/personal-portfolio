@@ -1,5 +1,4 @@
 import React from "react";
-import html from "../../assets/logos/html.svg";
 import javascript from "../../assets/logos/javascript.svg";
 import python from "../../assets/logos/python.svg";
 import java from "../../assets/logos/java.svg";
